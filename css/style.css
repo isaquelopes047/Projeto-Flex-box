@@ -24,6 +24,10 @@ body {
 	color: inherit;
 }
 
+.conteudoPrincipal-cursos{
+	display: flex;
+}
+
 .cabecalhoPrincipal-nav-link {
 	padding: 10px;
 	margin-bottom: 10px;
